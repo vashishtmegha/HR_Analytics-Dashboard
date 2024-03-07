@@ -1,2 +1,2 @@
 # HR_Analytics Dashboard
-The major objective of the project is to enhance workforce productivity and drive organizational success.
+In today's competitive business landscape, organizations face the challenge of retaining top talent while ensuring employee satisfaction and productivity. However, without a comprehensive understanding of their workforce dynamics, organizations struggle to identify areas for improvement and implement effective retention strategies. Our HR analytics project aims to address this challenge by leveraging Power BI to analyze a dataset encompassing employee demographics, job satisfaction, and attrition rates.
